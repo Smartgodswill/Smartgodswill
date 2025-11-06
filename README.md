@@ -1,31 +1,26 @@
-<!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/yourusername">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=16A34A&center=true&vCenter=true&width=680&lines=Eyram+Ufia;Mobile+Developer+%E2%80%A2+Bitcoin+Enthusiast;Creator+of+ShadowPay+Wallet" alt="Typing SVG"/>
   </a>
 </p>
 
-<!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=4" alt="GitHub Trophies" />
 </p>
 
----
 
 ## 🧑‍💻 Coding
 
-> I build performant mobile apps, ship full-stack features, and explore Bitcoin privacy tech.  
-> Creator of **ShadowPay** — a silent-payment, privacy-first non-custodial Bitcoin wallet (Flutter + BDK).
+> I build performant mobile apps, ship full stack features, and explore Bitcoin privacy tech.  
+> Creator of **ShadowPay**  a silent payment, privacy first non-custodial Bitcoin wallet (Flutter + BDK).
 
----
 
 ##  About Me
 - 💼 Full Stack Developer (mobile-first)  currently focused on Flutter & backend services  
 - 🔧 Passionate about performance, scalability, and privacy-preserving systems  
 - 🌱 Exploring Silent Payments, BDK, and advanced Bitcoin privacy techniques  
-- 👯 Looking to collaborate on privacy-first or decentralized systems and AI developments
+- 👯 Looking to collaborate on privacy first or decentralized systems and AI developments
 
----
 
 
 ## 🤝 Connect with Me
@@ -41,20 +36,17 @@
   </a>
 </p>
 
----
 
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" alt="Profile Views" />
 </p>
 
----
 
 ## 💡 Let's Build Something Amazing Together 🚀
 If you want to collaborate on **privacy-first wallets**, **Bitcoin tooling**, or mobile performance improvements as well as AI applications and websites. DM me or open an issue/pr on any of my projects.
 
----
 
 <p align="center">
-  — Built with ❤️ by **Eyram Ufia** (replace with your preferred display name)
+   Built with ❤️ by **Eyram Ufia** (replace with your preferred display name)
 </p>

@@ -65,9 +65,9 @@
 
 
 ## 💡 Let's Build Something Amazing Together 🚀
-If you want to collaborate on **privacy-first wallets**, **Bitcoin tooling**, or mobile performance improvements — DM me or open an issue/pr on any of my projects.
+If you want to collaborate on **privacy-first wallets**, **Bitcoin tooling**, or mobile performance improvements. DM me or open an issue/pr on any of my projects.
 
 
 <p align="center">
-  — Built with ❤️ by **Eyram Ufia** 
+   Built with ❤️ by **Eyram Ufia** 
 </p>

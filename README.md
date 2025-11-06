@@ -9,10 +9,14 @@
 </p>
 
 
-## 🧑‍💻 Coding
+## 🧑‍💻 Coding  
 
-> I build performant mobile apps, ship full stack features, and explore Bitcoin privacy tech.  
-> Creator of **ShadowPay**  a silent payment, privacy first non-custodial Bitcoin wallet (Flutter + BDK).
+> I build performant mobile apps, ship full-stack features, and explore Bitcoin privacy technologies.  
+>  
+> 💸 Creator of **ShadowPay**  a **silent-payment, privacy-focused, non-custodial Bitcoin wallet** built with **Flutter + BDK**.  
+>  
+> ⚡ ShadowPay also supports **multiple wallet types**, including **Lightning Network**, **CoinJoin (CNG)**, and **TRX** etc. all designed for speed, privacy, and self-custody.  
+
 
 
 ##  About Me

@@ -1,56 +1,74 @@
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=16A34A&center=true&vCenter=true&width=680&lines=Eyram+Ufia;Mobile+Developer+%E2%80%A2+Bitcoin+Enthusiast;Creator+of+ShadowPay+Wallet" alt="Typing SVG"/>
-  </a>
-</p>
+<h1 align="center">👋 Hey, I’m Eyram Ufia</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=4" alt="GitHub Trophies" />
+  <b>💻 Mobile & Full Stack Developer | ⚡ Bitcoin Privacy Enthusiast | 🏀 Sports Lover</b>
 </p>
+
+
+## 🚀 About Me  
+
+🎓 Developer passionate about building clean, performant mobile experiences.  
+💼 Creator of **ShadowPay** — a silent-payment, privacy-focused, non-custodial Bitcoin wallet.  
+🧠 Exploring **Bitcoin privacy tech**, **Lightning Network**, and **BDK integration**.  
+🌍 Advocate for open-source, privacy, and decentralized finance.  
+💬 I love talking about **Flutter**, **Web3**, **sports**, and **scalable architecture**.  
 
 
 ## 🧑‍💻 Coding  
 
 > I build performant mobile apps, ship full-stack features, and explore Bitcoin privacy technologies.  
 >  
-> 💸 Creator of **ShadowPay**  a **silent-payment, privacy-focused, non-custodial Bitcoin wallet** built with **Flutter + BDK**.  
+> 💸 Creator of **ShadowPay** — a **silent-payment, privacy-focused, non-custodial Bitcoin wallet** built with **Flutter + BDK**.  
 >  
-> ⚡ ShadowPay also supports **multiple wallet types**, including **Lightning Network**, **CoinJoin (CNG)**, and **TRX** etc. all designed for speed, privacy, and self-custody.  
+> ⚡ ShadowPay also supports **multiple wallet types**, including **Lightning Network**, **CoinJoin (CNG)**, and **TRX** integrations — all designed for speed, privacy, and self-custody.  
 
 
+## 🏗️ Projects  
 
-##  About Me
-- 💼 Full Stack Developer (mobile-first)  currently focused on Flutter & backend services  
-- 🔧 Passionate about performance, scalability, and privacy-preserving systems  
-- 🌱 Exploring Silent Payments, BDK, and advanced Bitcoin privacy techniques  
-- 👯 Looking to collaborate on privacy first or decentralized systems and AI developments
+### 🕶️ [ShadowPay Wallet](https://github.com/eyramufia/ratel_wallet)  
+A **non-custodial Bitcoin wallet** focused on **silent payments, privacy, and security** — powered by **Flutter** and **Bitcoin Dev Kit (BDK)**.  
+- 🔒 Privacy-first with Silent Payments  
+- ⚡ Multi-wallet support (BTC, Lightning, CoinJoin, TRX)  
+- 🧩 Built with modular Bloc architecture  
 
 
+## 💻 Tech Stack  
 
-## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/eyram-averrett-00627a28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ufiagodswill09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Smartgodswill" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,javascript,nodejs,postgresql,firebase,git,figma,solidity" />
 </p>
 
 
-## 👀 Profile Views
+## ⚙️ What I’m Working On  
+
+- 🌐 Building the next evolution of **ShadowPay Wallet**  
+- 📱 Experimenting with **Bitcoin Lightning integration in Flutter**  
+- 🧠 Deep-diving into **privacy-preserving Bitcoin protocols (Silent Payments, BIP352)**  
+- 🧩 Exploring **cross-chain interoperability** between Bitcoin and Web3  
+
+
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyramufia&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eyramufia&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyramufia&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
-## 💡 Let's Build Something Amazing Together 🚀
-If you want to collaborate on **privacy-first wallets**, **Bitcoin tooling**, or mobile performance improvements as well as AI applications and websites. DM me or open an issue/pr on any of my projects.
+## 🤝 Connect with Me  
+
+<p align="center">
+  <a href="https://medium.com/@eyramufia" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eyram-averrett-00627a28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="ufiagodswill09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
 
 <p align="center">
-   Built with ❤️ by **Eyram Ufia** (replace with your preferred display name)
+  <img src="https://komarev.com/ghpvc/?username=eyramufia&style=flat-square&color=green" alt="Profile Views" />
 </p>
+
+<h3 align="center">💡 Let's Build Something Amazing Together 🚀</h3>

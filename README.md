@@ -4,9 +4,12 @@
   </a>
 </p>
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Smartgodswill&theme=tokyonight&row=1&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Smartgodswill&theme=dracula&row=1&column=6" alt="GitHub Trophies" />
 </p>
+
 
 
 ## 🧑‍💻 Coding

@@ -33,9 +33,11 @@
 
 
 
+## 🔥 GitHub Streak
+
 <p align="center">
-  <!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=Smartgodswill&theme=tokyonight&cachebuster=1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Smartgodswill&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
   <!-- General stats -->
   <br/>

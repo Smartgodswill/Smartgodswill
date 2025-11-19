@@ -19,7 +19,7 @@
 
 
 ## 🚀 About Me
-- 💼 Full Stack Developer (mobile first) — currently focused on Flutter & backend services  
+- 💼 Full Stack Developer (mobile first) currently focused on Flutter & backend services  
 - 🔧 Passionate about performance, scalability, and privacy-preserving systems  
 - 🌱 Exploring Silent Payments, BDK, and advanced Bitcoin privacy techniques  
 - 👯 Looking to collaborate on privacy-first,decentralized systems as well as AI development

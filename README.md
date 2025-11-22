@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Smartgodswill">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=16A34A&center=true&vCenter=true&width=680&lines=Eyram+Ufia;Mobile+Developer+%E2%80%A2+Bitcoin+Enthusiast;Creator+of+ShadowPay+Wallet" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=16A34A&center=true&vCenter=true&width=680&lines=Eyram+Ufia;Mobile+Developer+%E2%80%A2+Bitcoin+Enthusiast;Creator+of+CoinZap+Wallet" alt="Typing SVG"/>
   </a>
 </p>
 

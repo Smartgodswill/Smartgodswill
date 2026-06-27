@@ -8,7 +8,7 @@
 </p>
 
 ## 🧑‍💻 Coding
-> I build scale and resilience softwares  
+> I build scalable and resilient software
 
 ## 🚀 About Me
 - 💼 Full Stack Developer (mobile-first) building software that scales and doesn't break  
@@ -44,8 +44,6 @@
   <img src="https://komarev.com/ghpvc/?username=Smartgodswill&color=brightgreen" alt="Profile Views" />
 </p>
 
-## 💡 Let's Build Something That Scales 🚀
-If you want to collaborate on **resilient systems**, **privacy-first Bitcoin tooling**, or high-performance mobile apps — DM me or open an issue/PR on any of my projects.
 
 <p align="center">
   Built with ❤️ by <strong>Eyram Ufia</strong>

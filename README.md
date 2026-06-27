@@ -1,49 +1,30 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F7431A&center=true&vCenter=true&width=600&lines=Yo!+Let's+Get+Cracked+%F0%9F%94%A5;I+build+scale+%26+resilience.;Flutter+%7C+Rust+%7C+Bitcoin+%7C+Backend" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Smartgodswill">
   </a>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Smartgodswill&theme=dracula&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-
-
 ## 🧑‍💻 Coding
-
-> I build performant mobile apps, ship full-stack features, and explore Bitcoin privacy tech.  
-> Creator of **ShadowPay** — a silent payment, privacy first non-custodial Bitcoin wallet (Flutter + BDK).
-
+> I build scale and resilience softwares  
 
 ## 🚀 About Me
-- 💼 Full Stack Developer (mobile first) currently focused on Flutter & backend services  
-- 🔧 Passionate about performance, scalability, and privacy-preserving systems  
+- 💼 Full Stack Developer (mobile-first) building software that scales and doesn't break  
+- 🔧 Obsessed with performance, fault tolerance, and systems that hold up under pressure  
 - 🌱 Exploring Silent Payments, BDK, and advanced Bitcoin privacy techniques  
-- 👯 Looking to collaborate on privacy-first,decentralized systems as well as AI development
-
-
+- 👯 Open to collaborating on resilient, decentralized systems and AI development
 
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,js,firebase,supabase,rust,python,typescript,figma,git" />
 </p>
 
-
-
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Smartgodswill&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-  <!-- General stats -->
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Smartgodswill&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smartgodswill&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 ## 🤝 Connect with Me
 <p align="center">
@@ -58,17 +39,14 @@
   </a>
 </p>
 
-
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Smartgodswill&color=brightgreen" alt="Profile Views" />
 </p>
 
-
-## 💡 Let's Build Something Amazing Together 🚀
-If you want to collaborate on **privacy-first wallets**, **Bitcoin tooling**, or mobile performance improvements. DM me or open an issue/pr on any of my projects.
-
+## 💡 Let's Build Something That Scales 🚀
+If you want to collaborate on **resilient systems**, **privacy-first Bitcoin tooling**, or high-performance mobile apps — DM me or open an issue/PR on any of my projects.
 
 <p align="center">
-   Built with ❤️ by **Eyram Ufia** 
+  Built with ❤️ by <strong>Eyram Ufia</strong>
 </p>

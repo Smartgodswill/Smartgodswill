@@ -21,11 +21,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,js,firebase,supabase,rust,python,typescript,figma,git" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smartgodswill&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smartgodswill&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/eyram-averrett-00627a28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
